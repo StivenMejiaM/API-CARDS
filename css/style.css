@@ -3,14 +3,11 @@
 }
 
 body{
-    width: 100vw;
-    height: 100vh;
-    background-image: url('/img/books.jpg');
-    background-size: cover;
+    height: auto;
+    background-image: url("https://anthrome.files.wordpress.com/2013/04/scw_0126.jpg");
     background-position: center;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 a {
